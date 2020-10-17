@@ -157,6 +157,7 @@ html {
 
 .highlights{
 	height: 520px;
+	margin-bottom: 200px;
 }
 
 .highlights .card-img-top{
@@ -681,6 +682,15 @@ html {
 	padding: 10px;
 	margin-top: 50px;
 }
+
+
+/*about section*/
+.about .title{
+	font-family: "Righteous";
+	align-self: center;
+	margin-bottom: 5%;
+}
+
 
 /*contact section*/
 
